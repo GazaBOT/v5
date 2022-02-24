@@ -74,6 +74,6 @@ handler.tags = ['jadibot', 'premium']
 handler.command = /^jadibot$/i
 handler.premium = true
 handler.private = false
-handler.limit = 1
+handler.limit = 3
 
 module.exports = handler
