@@ -11,8 +11,10 @@ let handler = async(m, { conn }) => {
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa : 085730903853
-GoPay: 085730903853
+Pulsa : 081216984044
+Dana  : 081216984044
+GoPay : 081216984044
+Shopee: 081216984044
 `.trim()
     const button = {
         buttonText: 'List Harga',
